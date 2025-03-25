@@ -1,4 +1,4 @@
-# Lista de Compra
+# Code Connect
 
 ## ℹ️ Sobre
 
